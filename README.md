@@ -1,6 +1,7 @@
-# VortexCurves
+# Vortex curves in systems with point interactions
 
 INTRODUCTION:
+
 This program has been made to simulate vortex curves in periodical systems with point interactions, as a part of Bachelor thesis under the name: „Vortex curves in systems with point interactions“ by Filip Breuer, under the Faculty of Nuclear Sciences and Physical Engineering, Czech technical university in Prague, 2023.
 
 ----------------------------------------------------
